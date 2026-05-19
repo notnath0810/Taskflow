@@ -360,16 +360,16 @@
       <div class="deco-card deco-card-1">
         <div class="deco-card-icon" style="background:linear-gradient(135deg,#ede9fe,#ddd6fe)">📝</div>
         <div style="flex:1">
-          <div class="deco-card-title">ITPC 101 Report</div>
-          <div class="deco-card-sub">Due in 2 days · ITPC 101</div>
+          <div class="deco-card-title">Emerging Technology Report</div>
+          <div class="deco-card-sub">Due in 2 days · ITPC CPE 3205</div>
         </div>
         <div class="deco-badge" style="background:linear-gradient(135deg,#ffe4e6,#fecdd3);color:#be123c;border:1.5px solid #fda4af">🔴 High</div>
       </div>
       <div class="deco-card deco-card-2">
         <div class="deco-card-icon" style="background:linear-gradient(135deg,#dcfce7,#bbf7d0)">✅</div>
         <div style="flex:1">
-          <div class="deco-card-title">Math Assignment</div>
-          <div class="deco-card-sub">Completed · MATH 2</div>
+          <div class="deco-card-title">Embedded Systems Assignment</div>
+          <div class="deco-card-sub">Completed · CPE 3201</div>
         </div>
         <div class="deco-badge" style="background:linear-gradient(135deg,#dcfce7,#bbf7d0);color:#15803d;border:1.5px solid #86efac">✅ Done</div>
       </div>
@@ -377,29 +377,21 @@
         <div class="deco-card-icon" style="background:linear-gradient(135deg,#fff7ed,#fed7aa)">⏳</div>
         <div style="flex:1">
           <div class="deco-card-title">Read Chapter 5</div>
-          <div class="deco-card-sub">Ongoing · ENG 11</div>
+          <div class="deco-card-sub">Ongoing · CPE 3204</div>
         </div>
         <div class="deco-badge" style="background:linear-gradient(135deg,#fff7ed,#fed7aa);color:#c2410c;border:1.5px solid #fdba74">⏳ Ongoing</div>
       </div>
       <div class="deco-card deco-card-4">
         <div class="deco-card-icon" style="background:linear-gradient(135deg,#fef9c3,#fde68a)">🔬</div>
         <div style="flex:1">
-          <div class="deco-card-title">Lab Report Draft</div>
-          <div class="deco-card-sub">Due Friday · SCI 3</div>
+          <div class="deco-card-title">Research Report Revisions</div>
+          <div class="deco-card-sub">Due Friday · CPE 3207L</div>
         </div>
         <div class="deco-badge" style="background:linear-gradient(135deg,#fef9c3,#fde68a);color:#b45309;border:1.5px solid #fcd34d">🟡 Medium</div>
       </div>
     </div>
   </div>
 </section>
-
-<!-- ── STATS ── -->
-<div class="stats-strip">
-  <div class="stat-item"><div class="stat-num">100%</div><div class="stat-label">Free to use</div></div>
-  <div class="stat-item"><div class="stat-num">4</div><div class="stat-label">CRUD operations</div></div>
-  <div class="stat-item"><div class="stat-num">3</div><div class="stat-label">Priority levels</div></div>
-  <div class="stat-item"><div class="stat-num">∞</div><div class="stat-label">Tasks you can track</div></div>
-</div>
 
 <!-- ── FEATURES ── -->
 <section class="features" id="features">
@@ -452,8 +444,8 @@
     <div class="preview-task-row">
       <div style="font-size:1.4rem">📝</div>
       <div class="preview-task-info">
-        <div class="preview-task-title">Finish IT Report</div>
-        <div class="preview-task-sub">ITPC 101 · Due tomorrow · High Priority</div>
+        <div class="preview-task-title">Finish Emerging Technology Report</div>
+        <div class="preview-task-sub">CPE 3205 · Due tomorrow · High Priority</div>
       </div>
       <div class="preview-badge" style="background:linear-gradient(135deg,#ffe4e6,#fecdd3);color:#be123c;border:1.5px solid #fda4af">🔴 High</div>
       <div class="preview-badge" style="background:linear-gradient(135deg,#ede9fe,#ddd6fe);color:#6d28d9;border:1.5px solid #c4b5fd;margin-left:.3rem">📋 Pending</div>
@@ -467,8 +459,8 @@
     <div class="preview-task-row">
       <div style="font-size:1.4rem">📐</div>
       <div class="preview-task-info">
-        <div class="preview-task-title">Math Assignment #3</div>
-        <div class="preview-task-sub">MATH 2 · Due Friday · Medium Priority</div>
+        <div class="preview-task-title">Embedded Systems Assignment #3</div>
+        <div class="preview-task-sub">CPE 3201 · Due Friday · Medium Priority</div>
       </div>
       <div class="preview-badge" style="background:linear-gradient(135deg,#fef9c3,#fde68a);color:#b45309;border:1.5px solid #fcd34d">🟡 Medium</div>
       <div class="preview-badge" style="background:linear-gradient(135deg,#fff7ed,#fed7aa);color:#c2410c;border:1.5px solid #fdba74;margin-left:.3rem">⏳ Ongoing</div>
@@ -482,8 +474,8 @@
     <div class="preview-task-row">
       <div style="font-size:1.4rem">📖</div>
       <div class="preview-task-info">
-        <div class="preview-task-title">Read Chapter 5 — ENG 11</div>
-        <div class="preview-task-sub">ENG 11 · No due date · Low Priority</div>
+        <div class="preview-task-title">Research Report Revisions </div>
+        <div class="preview-task-sub">CPE 3207L · No due date · Low Priority</div>
       </div>
       <div class="preview-badge" style="background:linear-gradient(135deg,#dcfce7,#bbf7d0);color:#15803d;border:1.5px solid #86efac">🟢 Low</div>
       <div class="preview-badge" style="background:linear-gradient(135deg,#dcfce7,#bbf7d0);color:#15803d;border:1.5px solid #86efac;margin-left:.3rem">✅ Completed</div>
@@ -549,9 +541,11 @@
   </div>
 </section>
 
-<!-- ── FOOTER ── -->
+<!-- ── FOOTER ── --> 
 <footer>
   Built with 💜 by <span>TaskFlow Team</span> · Powered by PHP + MySQL + XAMPP
+  <br>
+  Nathaniel M. Padas || Alexa Janine Gomez
 </footer>
 
 </body>
